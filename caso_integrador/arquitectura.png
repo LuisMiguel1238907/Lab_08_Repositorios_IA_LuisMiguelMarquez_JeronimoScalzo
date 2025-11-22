@@ -1,1 +1,36 @@
 
+                +----------------------+
+                |      KAGGLE         |
+                |  Dataset + EDA      |
+                +---------+-----------+
+                          |
+                          v
+                +----------------------+
+                |   NOTEBOOK EDA       |
+                | Limpieza + gráficos  |
+                +---------+-----------+
+                          |
+                          v
+                +----------------------+
+                |   HUGGING FACE       |
+                |  Modelo Sentimiento  |
+                +---------+-----------+
+                          |
+                          v
+                +----------------------+
+                |   HF SPACE (Gradio)  |
+                | Interfaz interactiva |
+                +---------+-----------+
+                          |
+                          v
+                +------------------------------+
+                |      GOOGLE AI STUDIO       |
+                |   Prompts + generación IA   |
+                +--------------+--------------+
+                               |
+                               v
+                +------------------------------+
+                |       CASO INTEGRADOR        |
+                | Integración de resultados    |
+                | Kaggle + HF + AI Studio      |
+                +------------------------------+
