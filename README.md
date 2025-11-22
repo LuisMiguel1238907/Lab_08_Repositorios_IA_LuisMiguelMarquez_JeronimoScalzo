@@ -64,15 +64,15 @@ Permite ingresar texto y obtener una clasificación:
 Puede utilizarse para identificar emociones en mensajes estudiantiles.
 
  **Space en Hugging Face:**  
-👉 (https://huggingface.co/spaces/Miguel123231/sentiment-miguel_Jeronimo)
+ (https://huggingface.co/spaces/Miguel123231/sentiment-miguel_Jeronimo)
 
-📂 Archivos:
+ Archivos:
 - `/huggingface/app.py`
 - `/huggingface/modelo_hf.ipynb`
 
 ---
 
-## 🧠 3. Google AI Studio – Ingeniería de Prompts
+##  3. Google AI Studio – Ingeniería de Prompts
 
 Se realizaron 3 prompts:
 
