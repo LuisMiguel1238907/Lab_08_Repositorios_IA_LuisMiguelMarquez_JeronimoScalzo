@@ -58,8 +58,8 @@ Se creó un **Hugging Face Space** utilizando:
 
 Permite ingresar texto y obtener una clasificación:
 
-✔ POSITIVE  
-✔ NEGATIVE  
+ POSITIVE  
+ NEGATIVE  
 
 Puede utilizarse para identificar emociones en mensajes estudiantiles.
 
