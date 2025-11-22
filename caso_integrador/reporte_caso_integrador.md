@@ -118,7 +118,7 @@ Variaciones creativas controlando la temperatura.
 
 Demostró su utilidad para personalizar contenido pedagógico.
 
-🧠 5. Conclusiones
+ 5. Conclusiones
 
 Kaggle permite analizar rendimiento académico con datos reales → apoyo para decisiones educativas.
 
