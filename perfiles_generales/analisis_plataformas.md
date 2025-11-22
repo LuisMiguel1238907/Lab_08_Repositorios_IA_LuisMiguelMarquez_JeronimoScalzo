@@ -3,7 +3,7 @@ Laboratorio 08 – Repositorios IA
 
 Este documento presenta un análisis comparativo de las diferentes plataformas exploradas en el laboratorio, incluyendo su descripción, principales fortalezas, debilidades y aplicaciones potenciales en el ámbito educativo.
 
-🔹 1. Hugging Face
+ 1. Hugging Face
 ¿Qué es?
 
 Hugging Face es una plataforma líder en modelos de inteligencia artificial, especialmente orientada al procesamiento de lenguaje natural (NLP), visión, audio, agentes autónomos y Spaces para desplegar apps con Gradio o Streamlit.
@@ -28,7 +28,7 @@ Uso educativo
 
 Permite crear asistentes virtuales, clasificadores de texto, sistemas de apoyo estudiantil y demos interactivas en pocos minutos.
 
-🔹 2. Google NotebookLM
+ 2. Google NotebookLM
 ¿Qué es?
 
 NotebookLM es una herramienta que permite construir “notebooks inteligentes” basados en documentos cargados por el usuario, generando resúmenes, análisis y explicaciones automáticas.
@@ -53,7 +53,7 @@ Uso educativo
 
 Perfecto para análisis de lecturas, resúmenes de textos académicos y creación de guías de estudio.
 
-🔹 3. Google AI Studio
+ 3. Google AI Studio
 ¿Qué es?
 
 Plataforma de Google para experimentar con prompts y modelos Gemini, permitiendo crear agentes y probar interacciones avanzadas rápidamente.
@@ -78,7 +78,7 @@ Uso educativo
 
 Generación de contenidos educativos, evaluaciones, explicaciones personalizadas y prototipos de asistentes.
 
-🔹 4. Kaggle
+ 4. Kaggle
 ¿Qué es?
 
 Kaggle es la principal plataforma para ciencia de datos, donde se comparten datasets, notebooks, competiciones y modelos reproducibles.
@@ -103,7 +103,7 @@ Uso educativo
 
 Ideal para análisis de datos académicos, predicción de rendimiento estudiantil y aprendizaje práctico de machine learning.
 
-🔹 5. Perplexity AI
+ 5. Perplexity AI
 ¿Qué es?
 
 Un motor de búsqueda impulsado por IA que responde con fuentes verificables y análisis directo.
@@ -128,7 +128,7 @@ Uso educativo
 
 Búsqueda de información confiable, revisión de literatura y verificación de fuentes para trabajos académicos.
 
-🔹 6. Papers with Code
+ 6. Papers with Code
 ¿Qué es?
 
 Repositorio de papers relacionados con IA acompañados del código para replicarlos, ordenados por métricas y benchmarks.
@@ -153,7 +153,7 @@ Uso educativo
 
 Excelente para investigación avanzada e implementación de modelos modernos.
 
-🔹 7. Replicate
+ 7. Replicate
 ¿Qué es?
 
 Plataforma que permite ejecutar modelos de IA (imagen, video, texto) mediante API, sin instalaciones complejas.
@@ -178,7 +178,7 @@ Uso educativo
 
 Generación de imágenes, videos o textos educativos para materiales visuales.
 
-🔹 8. Modelscope
+ 8. Modelscope
 ¿Qué es?
 
 Repositorio de modelos de la empresa Alibaba, enfocado en visión, audio y multimodalidad.
@@ -203,7 +203,7 @@ Uso educativo
 
 Proyectos de visión computacional, reconocimiento de texto o análisis de video educativo.
 
-🔹 9. LLaMaIndex
+ 9. LLaMaIndex
 ¿Qué es?
 
 Framework para construir sistemas RAG (Retrieval-Augmented Generation) usando documentos propios.
@@ -228,7 +228,7 @@ Uso educativo
 
 Construcción de tutorías inteligentes o chatbots para cursos específicos.
 
-🔹 10. GitHub Copilot
+ 10. GitHub Copilot
 ¿Qué es?
 
 Asistente de programación que sugiere código, refactoriza y documenta automáticamente dentro de GitHub y VS Code.
@@ -253,7 +253,7 @@ Uso educativo
 
 Aprendizaje de programación, prototipado rápido y apoyo en tareas de código.
 
-🔹 11. Codeium
+ 11. Codeium
 ¿Qué es?
 
 Asistente de programación gratuito que genera código, documenta y ofrece alternativas a Copilot.
@@ -278,7 +278,7 @@ Uso educativo
 
 Ideal para estudiantes que no quieren pagar Copilot.
 
-🔹 12. Replit AI / Ghostwriter
+ 12. Replit AI / Ghostwriter
 ¿Qué es?
 
 Entorno para crear aplicaciones directamente en la nube con autocompletado y generación automática.
@@ -303,7 +303,7 @@ Uso educativo
 
 Desarrollo de proyectos rápidos: APIs, apps web educativas, scripts de ejemplo.
 
-🔹 13. Claude Code
+ 13. Claude Code
 ¿Qué es?
 
 Asistente de Anthropic orientado a cargar repositorios completos, entenderlos y modificarlos.
@@ -328,7 +328,7 @@ Uso educativo
 
 Perfecto para aprender buenas prácticas de software.
 
-🔹 14. Devin AI (visión futura)
+ 14. Devin AI (visión futura)
 ¿Qué es?
 
 Concepto de “ingeniero de software autónomo” que ejecuta tareas completas: correr código, corregir errores y crear repositorios.
