@@ -1,1 +1,1 @@
-
+Este directorio contiene la evidencia del trabajo realizado con Google AI Studio dentro del laboratorio. Se desarrollaron tres prompts diferentes para observar cómo el modelo Gemini responde en contextos técnicos, creativos y con distintos niveles de temperatura.
